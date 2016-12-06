@@ -84,7 +84,7 @@ Luke Geeson, _Outgoing President_
 
 We welcome to students of all abilities. 40% of our members are not computer science students, with some of our most active members studying courses such as Medicine, Physics, Economics, or Philosophy. So join today and start revolutionizing the world with code!
 
-+ Buy membership for the society [here](www.su.nottingham.ac.uk/societies/society/hack/)
-+ Join us on [facebook](www.facebook.com/groups/hacksocNotts/)
++ Buy membership for the society [here](http://www.su.nottingham.ac.uk/societies/society/hack/)
++ Join us on [facebook](http://www.facebook.com/groups/hacksocNotts/)
 + Follow us on twitter: [@hacksocnotts](https://twitter.com/hacksocnotts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 + Drop us an email at: [info@hacksocnotts.co.uk](mailto:info@hacksocnotts.co.uk)
