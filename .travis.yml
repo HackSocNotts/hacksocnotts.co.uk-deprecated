@@ -3,4 +3,4 @@ rvm:
 - 2.1
 script:
   - bundle exec jekyll build
-  - bundle exec htmlproofer _site
+  - bundle exec htmlproofer --only-4xx _site
