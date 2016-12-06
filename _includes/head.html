@@ -6,16 +6,16 @@
 	<meta http-equiv="X-Frame-Options" content="sameorigin">
 
 	<!-- CSS -->
-	<link rel="stylesheet" href="{{ "css/main.css" | prepend: site.baseurl }}">
+	<link rel="stylesheet" href="{{ "css/main.css" | prepend: '/' | prepend: site.url }}">
 
 	<!--Favicon-->
-	<link rel="shortcut icon" href="{{ "favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
+	<link rel="shortcut icon" href="{{ "favicon.ico" | prepend: '/' | prepend: site.url }}" type="image/x-icon">
 
 	<!-- Canonical -->
-	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
 	<!-- RSS -->
-	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_specific.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_specific.title }}" href="{{ "feed.xml" | prepend: '/' | prepend: site.url }}" />
 
 	<!-- Font Awesome -->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
