@@ -17,7 +17,7 @@ We've done alot this year, including attending many hackathons, running many tec
 + _TechNottingham (many)_: We went to the monthly tech meetups with members of the nottingham tech community. 
 + _Intro to Python sessions (many)_: We ran very successful introduction to programming sessions which taught non-programmers the basics of Python.
 + _TechTalks (from members and guests)_: We had talks from Goldman Sachs, Esendex, LifeSciences and many talks from members of the society on topics ranging from [Git](https://github.com/jamietanna/gittalk15), [the use of Microframeworks](https://github.com/sdh100shaun/hacksoc-microframeworks) to [DataMining with Spark](https://github.com/lukeg101/Talks/blob/master/IntroToScalaAndSparkTalk.pdf).
-+ _HackNotts and WiT!_: Not to forget the elephant in the room, we ran 2 very successful events in the form of a large Hackathon [HackNotts](http://hacknotts.com/) and the [Women In Technology conference](http://2016.inspirewit.com/).
++ _HackNotts and WiT!_: Not to forget the elephant in the room, we ran 2 very successful events in the form of a large Hackathon [HackNotts](http://hacknotts.com/) and the [Women In Technology conference](http://web.archive.org/web/20161029124705/http://2016.inspirewit.com/).
 
 ![Jamie helping out at our local hack day!](/img/jamieLHD.jpg){: .center-image}
 
@@ -84,7 +84,7 @@ Luke Geeson, _Outgoing President_
 
 We welcome to students of all abilities. 40% of our members are not computer science students, with some of our most active members studying courses such as Medicine, Physics, Economics, or Philosophy. So join today and start revolutionizing the world with code!
 
-+ Buy membership for the society [here](www.su.nottingham.ac.uk/societies/society/hack/)
-+ Join us on [facebook](www.facebook.com/groups/hacksocNotts/)
++ Buy membership for the society [here](http://www.su.nottingham.ac.uk/societies/society/hack/)
++ Join us on [facebook](http://www.facebook.com/groups/hacksocNotts/)
 + Follow us on twitter: [@hacksocnotts](https://twitter.com/hacksocnotts?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 + Drop us an email at: [info@hacksocnotts.co.uk](mailto:info@hacksocnotts.co.uk)

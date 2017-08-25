@@ -17,9 +17,8 @@ But who wants to constantly browse to our site to check this out? To make your l
 - [Google Calendar](https://support.google.com/calendar/answer/37100)
 - [Apple Calendar](https://support.apple.com/kb/PH11524)
 
-These will require you to have one of these links, which will make it possible for you to import the full calendar straight in:
+This will require you add the following link, which will make it possible for you to import the full calendar straight in:
 
 - [ICAL file format (`.ics`)](https://www.google.com/calendar/ical/pqclo0bjutp9ld8qpdbtcf3jv8%40group.calendar.google.com/public/basic.ics)
-- [XML file format](https://www.google.com/calendar/feeds/pqclo0bjutp9ld8qpdbtcf3jv8%40group.calendar.google.com/public/basic)
 
 For other clients, ping us on [mail@hacksocnotts.co.uk](mailto:mail@hacksocnotts.co.uk) and we'll point you in the right direction.

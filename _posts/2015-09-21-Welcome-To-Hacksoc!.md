@@ -61,8 +61,8 @@ The above events are held in the school of Computer Science
 
 We welcome to students of all abilities. 40% of our members are not computer science students, with some of our most active members studying courses such as Medicine, Physics, Economics, or Philosophy. So join today and start revolutionizing the world with code!
 
-+ Buy membership for the society at: www.su.nottingham.ac.uk/societies/society/hack/
-+ join us on facebook: www.facebook.com/groups/hacksocNotts/
++ Buy membership for the society at: http://www.su.nottingham.ac.uk/societies/society/hack/
++ join us on facebook: http://www.facebook.com/groups/hacksocNotts/
 + follow us on twitter: @hacksocnotts
 + drop us an email at: info@hacksocnotts.co.uk
 + visit our site at: hacksocnotts.co.uk/
