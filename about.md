@@ -11,7 +11,7 @@ HackSoc is a society for those interested in all aspects of programming, based a
 We attend national events on a regular basis, including: Hackin’ In the City, Space Apps & Hacked.io.
 
 
-### The Exec for 2016/17
+### The Exec for 2017/18
 
 {% for exec in site.data.exec %}
 * **{{exec.role_name}}**: {{ exec.name }} (`{{ exec.email }}` on email, or [`@{{exec.slack_name}}`](https://hacksocnotts.slack.com/messages/@{{exec.slack_name}}) on Slack)
