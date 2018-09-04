@@ -18,7 +18,7 @@ To replace : http://www.hacksocnotts.co.uk/
 
 ## How to write a blog post!
 
-* Add a file to [/_posts/](https://github.com/HackSocNotts/HackSocNotts.github.io/tree/master/_posts)
+* Add a file to [`/_posts/`](https://github.com/HackSocNotts/HackSocNotts.github.io/tree/master/_posts)
 * Name this file `yyyy-mm-dd-name-of-post.md` e.g. `2013-04-15-Space-Apps-London.md`
 * Add this header to the top of the file
 ```
