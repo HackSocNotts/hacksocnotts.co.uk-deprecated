@@ -42,6 +42,10 @@ To replace : http://www.hacksocnotts.co.uk/
 	* GitHub may send your email or info@hacksocnotts.co.uk with failure information (although it's not always very helpful)
 	* Ask @jay-to-the-dee (Dilks) or @jamietanna if you're still stuck :)
 
+## Testing the Contributors Page Locally
+
+In order to test the Contributors page locally, you will be required to follow the steps at <https://help.github.com/articles/repository-metadata-on-github-pages/#using-repository-metadata-locally>, to interface with the Github API locally. With this done, you can then run `env JEKYLL_GITHUB_TOKEN=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX bundle exec jekyll serve`.
+
 ## Created with Jekyll
 
 A free and open-source blogging platform [Jekyll](http://jekyllrb.com).

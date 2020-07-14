@@ -2,9 +2,12 @@
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "hacksocnotts.co.uk" # the base hostname & protocol for your site
 
+repository: HackSocNotts/HackSocNotts.github.io
+
 gems:
   - jekyll-paginate
   - rouge
+  - jekyll-github-metadata
 
 # THEME-SPECIFIC CONFIGURATION
 theme_specific:
@@ -24,7 +27,7 @@ theme_specific:
 
   header_text_feature_image:
   footer_text: >
-   Created by members of <a href="//github.com/orgs/HackSocNotts/people">HackSoc</a>, and available under the terms of the <a href="https://github.com/HackSocNotts/HackSocNotts.github.io/blob/master/LICENSE">GNU General Public License v3</a>.
+   <a href="/contributors/">Created by members</a> of <a href="//github.com/orgs/HackSocNotts/people">HackSoc</a>, and available under the terms of the <a href="https://github.com/HackSocNotts/HackSocNotts.github.io/blob/master/LICENSE">GNU General Public License v3</a>.
 
   # Icons
   rss: false
